@@ -16,7 +16,6 @@ This repository collects awesome surveys, resources, and papers for Pluralistic 
 
 ## Table of Contents
 
----
 
 - [Pluralistic Alignment Methodologies](#pluralistic-alignment-methodologies)
   - [Overton](#overton)
@@ -50,8 +49,7 @@ This repository collects awesome surveys, resources, and papers for Pluralistic 
 
 ## Pluralistic Alignment Methodologies
 
----
-<img alt="image" height="500" src="./imgs/pluralistic-alignment-methodologies-taxonomy.png" />
+<img alt="image" height="750" src="./imgs/pluralistic-alignment-methodologies-taxonomy.png" />
 
 ### Overton
 
@@ -150,9 +148,8 @@ This repository collects awesome surveys, resources, and papers for Pluralistic 
 
 ## Pluralistic Alignment Datasets and Benchmarks
 
----
 
-<img alt="image" height="500" src="./imgs/pluralistic-alignment-datasets-table.png" />
+<img alt="image" height="900" src="./imgs/pluralistic-alignment-datasets-table.png" />
 
 ### Alignment Modes
 
@@ -231,7 +228,7 @@ This repository collects awesome surveys, resources, and papers for Pluralistic 
 
 ## Other Alignment Surveys
 
----
+
 * **Towards Scalable Automated Alignment of LLMs: A Survey** [[paper](https://arxiv.org/abs/2406.01252)]
 * **Large Language Model Alignment: A Survey** [[paper](https://arxiv.org/abs/2309.15025)]
 * **AI Alignment: A Comprehensive Survey** [[paper](https://arxiv.org/abs/2310.19852)]
@@ -242,12 +239,12 @@ This repository collects awesome surveys, resources, and papers for Pluralistic 
 * **Personalization of Large Language Models: A Survey** [[paper](https://arxiv.org/abs/2411.00027)]
 * **A Survey on Personalized and Pluralistic Preference Alignment in Large Language Models** [[paper](https://arxiv.org/abs/2504.07070)]
 
----
+
 
 
 ## Reference
 
----
+
 
 ```
 TODO: add bibtex for paper
